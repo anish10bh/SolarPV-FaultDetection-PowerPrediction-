@@ -20,7 +20,6 @@ This project applies machine learning and deep learning techniques to predict po
 ├── regression_models.ipynb # Power prediction models
 ├── classification_models.ipynb # Fault classification models
 ├── results/ # Plots, metrics, and outputs
-├── requirements.txt # List of dependencies (optional)
 └── README.md # Project overview
 ---
 
