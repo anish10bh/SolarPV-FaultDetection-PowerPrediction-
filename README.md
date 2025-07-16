@@ -15,12 +15,16 @@ This project applies machine learning and deep learning techniques to predict po
 ---
 
 ## 📂 Project Structure
-├── data/ # Raw and preprocessed datasets
-├── preprocessing.ipynb # Data cleaning and feature engineering
-├── regression_models.ipynb # Power prediction models
-├── classification_models.ipynb # Fault classification models
-├── results/ # Plots, metrics, and outputs
-└── README.md # Project overview
+├── data/
+│   └── solar_data.csv
+├── notebooks/
+│   ├── preprocessing.ipynb
+│   ├── regression_models.ipynb
+│   └── classification_models.ipynb
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 ---
 
 ## 🧠 Models Used
